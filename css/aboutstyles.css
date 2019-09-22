@@ -1,0 +1,282 @@
+@charset "UTF-8";
+html {
+box-sizing: border-box;
+}
+
+body{
+    width: 1366px;
+height: 1380px;
+background: white;
+opacity: 1;
+}
+
+header{
+    background:#FFFFFF;
+    width: 1366px;
+    height: 88px;
+    box-shadow:0px 3px 6px #00000029;
+}
+a {
+    text-decoration: none;
+}
+.red{color: #b60b05;}
+      /* header style */
+#doc{     
+    position: absolute;
+    top:20px;
+    left:142px;
+    width:38px;
+    height:38px;
+  
+  }   
+  #ye{     
+    position: absolute;
+    top:0px;
+    left:180px;
+    width:140px;
+    height:41px;
+    color: #229DE8;
+    font: bold;
+    font-size: 25px;
+  }  
+
+#do{ 
+    position: absolute;
+   top:32px;
+   left:768px;
+   width:92px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229de8;
+ }
+#it{  
+   position: absolute;
+   top:32px;
+   left:924px;
+   width:50px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+#your{ 
+   position: absolute;
+   top:32px;
+   left:1036px;
+   width:44px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+#self{ 
+  position: absolute;
+   top:32px;
+   left:1141px;
+   width:86px;
+   height:24px;
+   font: medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+
+#who{
+    position: absolute;
+    top: 145px;
+    left: 131px;
+    width: 220px;
+    height: 54px;
+    font: normal;
+    font-size: 30px;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+}
+
+#lorem{
+    position: absolute;
+    top: 208px;
+    left: 132px;
+    width: 437px;
+    height: 164px;
+    font: Lighter;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #525355;
+    opacity: 1;
+}
+
+#glo{
+    position: absolute;
+    top: 419px;
+    left: 150px;
+    width: 380px;
+    height: 327px;
+    opacity: 1;
+}
+
+#what{
+    position: absolute;
+    top: 493px;
+    left: 784px;
+    width: 222px;
+    height: 54px;
+    font: normal;
+    font-size: 30px;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+}
+
+#ipsum{
+    position: absolute;
+    top: 560px;
+    left: 787px;
+    width: 437px;
+    height: 164px;
+    font: Lighter;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #525355;
+    opacity: 1;
+}
+
+#meet{
+    position: absolute;
+    top: 794px;
+    left: 528px;
+    width: 259px;
+    height: 54px;
+    font: normal;
+    font-size: 30px;
+    letter-spacing: 0;
+    color: #229DE8;
+    opacity: 1;
+}
+
+#bo{
+    position: absolute;
+    top: 948px;
+    left: 180px;
+    width: 269px;
+    height: 246px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+#box{
+    position: absolute;
+    top: 948px;
+    left: 568px;
+    width: 269px;
+    height: 246px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+#bol{
+    position: absolute;
+    top: 948px;
+    left: 955px;
+    width: 269px;
+    height: 246px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px;
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    position: absolute;
+    top: 1279px;
+    left: 50px;
+    width: 1267px;
+    height: 127px;
+    background: #229DE8;
+    border-radius: 48px 48px 0px 0px;
+}
+
+
+#ab{
+    position: absolute; 
+    top: 50px;
+    height:24px;
+    width:50px;
+    left:140px;
+    color:#FFFFFF;
+    font: normal;
+    font-size: 14px;
+   }
+    #fa{
+      position: absolute; 
+      top: 50px;
+      height:24px;
+      width: 44px;
+     left:260px;
+     color:#FFFFFF;
+    } 
+      #coc{
+        position: absolute; 
+        top: 50px;
+        height:24px;
+        width: 86px;
+        left:381px;
+        color:#FFFFFF;
+    } 
+    #face{
+      position: absolute; 
+      top: 50px;
+      height:21px;
+      width: 11px;
+      left:652px;
+      color:#FFFFFF;
+  } 
+  #twi{
+    position: absolute; 
+    top: 50px;
+    height:21px;
+    width: 28px;
+    left:687px;
+    color:#FFFFFF;
+  } 
+    #on{
+      position: absolute; 
+      top: 40px;
+      height:24px;
+      width: 142px;
+     left:1131px;
+     color: #FFFFFF;
+    }

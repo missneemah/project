@@ -1,0 +1,268 @@
+@charset "UTF-8";
+html {
+box-sizing: border-box;
+}
+body{
+    width: 1366px;
+height: 782px;
+background: white;
+}
+
+header{
+    background:#FFFFFF;
+    width: 1366px;
+    height: 88px;
+    box-shadow:0px 3px 6px #00000029;
+}
+a {
+    text-decoration: none;
+}
+#doc{     
+    position: absolute;
+    top:20px;
+    left:145px;
+    width:38px;
+    height:38px;
+    color: red;
+  }   
+  .red{color: #b60b05;}  
+
+  #ye{     
+    position: absolute;
+    top:0px;
+    left:180px;
+    width:140px;
+    height:41px;
+    color: #229DE8;
+    font: bold;
+    font-size: 25px;
+}
+
+
+#do{ 
+  position: absolute;
+   top:36px;
+   left:771px;
+   width:92px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229de8;
+ }
+
+#it{  
+   position: absolute;
+   top:36px;
+   left:924px;
+   width:50px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+#your{ 
+   position: absolute;
+   top:36px;
+   left:1036px;
+   width:44px;
+   height:24px;
+   font:medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+#self{ 
+ position: absolute;
+   top:36px;
+   left:1141px;
+   width:86px;
+   height:24px;
+   font: medium;
+   font-size: 15px;
+   color:#229DE8;
+}
+
+#reg{
+    position: absolute;
+    top:168px;
+    left:161px;
+    width:456px;
+    height:49px;
+    font: normal 36px;
+    letter-spacing: -0.58px;
+    color: #229DE8;
+}
+
+#enter{
+    position: absolute;
+    top:217px;
+    left:164px;
+    width: 354px;
+    height: 24px;
+    font: normal;
+    font-size: 18px;
+    letter-spacing: -0.77px;
+    color: #6E7275;
+}
+#comp{
+    position: absolute;
+    top: 298px;
+    left: 161px;
+    width: 160px;
+    height: 24px;
+    font: normal 18px;
+    letter-spacing: -1.44px;
+    border: #FFFFFF;
+    color: #6E7275;
+}
+#line{
+    position: absolute;
+    top: 338px;
+    left: 164px;
+    width: 417px;
+    height: 0px;
+    border: 0.5px solid #707070;
+}
+#pass{
+    position: absolute;
+    top: 393px;
+    left: 165px;
+    width: 150px;
+    height: 24px;
+    font: normal 18px/24px;
+    letter-spacing: -1.44px;
+    border: #FFFFFF;
+    color: #6E7275;
+}
+#line2{
+    position: absolute;
+    top: 433px;
+    left: 166px;
+    width: 417px;
+     border: 0.5px solid #707070;
+}
+#fp{
+    position: absolute;
+    top: 450px;
+    left: 471px;
+    width: 110px;
+    height: 22px;
+    font: normal 16px/22px;
+    letter-spacing: -1.28px;
+    color: #229DE8;
+}
+#box{
+    position: absolute;
+    top: 490px;
+    left: 166px;
+    width: 248px;
+    height: 49px;
+    background: #229DE8;
+    border-radius: 5px;
+}
+#log{
+    position: absolute;
+    top: 520px;
+    left: 258px;
+    width: 45px;
+    height: 24px;
+    font: normal 18px;
+    color: #FFFFFF;
+}
+#i{
+    position: absolute;
+    top: 168px;
+    left: 758px;
+    width: 419px;
+    height: 49px;
+    font: normal 36px;
+    letter-spacing: -0.58px;
+    color: #229DE8;
+}
+#form{
+    position: absolute;
+    top: 217px;
+    left: 758px;
+    width: 444px;
+    height: 48px;
+    font: normal 18px;
+    letter-spacing: -0.77px;
+    color: #6E7275;
+}
+#box1{
+    position: absolute;
+    top: 286px;
+    left: 758px;
+    width: 248px;
+    height: 49px;
+    background: #229DE8 0% 0%;
+    border-radius: 5px;
+}
+#acc{
+    position: absolute;
+    top: 320px;
+    left: 822px;
+    width: 121px;
+    height: 24px;
+    font: normal;
+    font-size: 14px;
+    color: #FFFFFF;
+}
+footer{
+    position: absolute;
+    top: 685px;
+    left: 50px;
+    width: 1267px;
+    height: 127px;
+    background: #229DE8;
+    border-radius: 48px 48px 0px 0px;
+}
+  #ab{
+    position: absolute; 
+    top: 50px;
+    height:24px;
+    width:50px;
+    left:140px;
+    color:#FFFFFF;
+   }
+    #fa{
+      position: absolute; 
+      top: 50px;
+      height:24px;
+      width: 44px;
+     left:260px;
+     color:#FFFFFF;
+    } 
+      #coc{
+        position: absolute; 
+        top: 50px;
+        height:24px;
+        width: 86px;
+        left:381px;
+        color:#FFFFFF;
+    } 
+    #face{
+      position: absolute; 
+      top: 50px;
+      height:21px;
+      width: 11px;
+      left:652px;
+      color:#FFFFFF;
+  } 
+  #twi{
+    position: absolute; 
+    top: 50px;
+    height:21px;
+    width: 28px;
+    left:687px;
+    color:#FFFFFF;
+  } 
+    #on{
+      position: absolute; 
+      top: 40px;
+      height:24px;
+      width: 142px;
+     left:1131px;
+     color: #FFFFFF;
+    }  
+          
+  

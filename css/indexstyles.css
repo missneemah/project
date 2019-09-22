@@ -1,0 +1,439 @@
+@charset "UTF-8";
+html {
+box-sizing: border-box;
+}
+body{
+  background: #FFFFFF;
+  width: 1366px;
+  height: 2715px;
+}
+header{
+     background: url(../assests/background.png);
+     width: 1366px;
+     height: 769px;
+}
+a:link, a:visited { color: white }
+a {
+text-decoration: none;
+ }
+
+  #doc{     
+    position: absolute;
+    top:25px;
+    left:142px;
+    width:38px;
+    height:38px;
+    color: white;
+  }   
+  #call{     
+    position: absolute;
+    top:30px;
+    left:195px;
+    width:130px;
+    height:41px;
+    color: white;
+    font: bold;
+    font-size: 20px;
+  } 
+  
+  #do{ 
+      position: absolute;
+      top:45px;
+      left:638px;
+      width:92px;
+      height:24px;
+      font:medium;
+      font-size: 15px;
+    }
+  #it{  
+      position: absolute;
+      top:45px;
+      left:785px;
+      width:50px;
+      height:24px;
+      font:medium;
+      font-size: 15px;
+   }
+  #your{ 
+      position: absolute;
+      top:45px;
+      left:890px;
+      width:44px;
+      height:24px;
+      font:medium;
+      font-size: 15px;
+   }
+  #self{ 
+      position: absolute;
+      top:45px;
+      left:989px;
+      width:86px;
+      height:24px;
+      font: medium;
+      font-size: 15px;
+   }
+  #again{ 
+      position: absolute;
+      top:45px;
+      left:1130px;
+      width:131px;
+      height:24px;
+      font:medium;
+      font-size: 15px;
+   }
+  
+  #acs{
+    position: absolute;
+    top:233px;
+    left:142px;
+    width:622px;
+    height:225px;
+    color: white;
+    font: bold;
+    font-size: 55px;
+  }   
+  #get{
+    position: absolute;
+    top:495px;
+    left:142px;
+    width:254px;
+    height:54px;
+    background-color: white;
+    border: 1px solid#229DE8; 
+    border-radius: 5px;
+  }
+   #start{
+    position: absolute;
+    top:505px;
+    left:205px;
+    width:121px;
+    height:32px;
+    color: #229DE8; 
+    font: medium;
+    font-size: 24px;
+  }
+  
+  #play{
+    position: absolute;
+    top:589px;
+    left:142px;
+    width:207px;
+    height:61px;
+    color: white; 
+  }
+
+  #me{
+    position: absolute; 
+    top: 134px;
+    height:517;
+    width: 427px;
+    left: 819px;
+}
+
+  #app{
+    position: absolute;
+    top:589px;
+    left:371px;
+    width:206px;
+    height:62px;
+    color: white; 
+  }
+
+#ic{
+    position: absolute; 
+    top: 837px;
+    height:467;
+    width: 426px;
+    left: 110px;
+}
+
+#sim{
+    position: absolute;
+    top:1300px;
+    left:116px;
+    width:109px;
+    height:27px;
+    color:#B60C06;
+    font: bold;
+    font-size: 20px; 
+  }
+
+  #plan{
+    position: absolute;
+    top:1330px;
+    left:116px;
+    width:465px;
+    height:90px;
+    color: #686160;
+    font: normal;
+    font-size: 33px;
+  }
+  #spend{
+    position: absolute;
+    top:1445px;
+    left:116px;
+    width:538px;
+    height:81px;
+    color: #666464;
+    font:normal;
+    font-size: 20px;
+     
+  }
+  #bor{
+    position: absolute;
+    top:1587px;
+    left:112px;
+    width:254px;
+    height:54px;
+    background-color:#229DE8;
+    border: 1px solid;
+    border-color:#229DE8;
+    border-radius: 5px;
+  }
+    #gs{
+    position: absolute;
+    top:1615px;
+    left:170px;
+    width:121px;
+    height:32px;
+    color: #FFFFFF; 
+    font: normal;
+    font-size: 24px;
+  } 
+  #ted{
+  position: absolute; 
+  top: 1263px;
+  height:846;
+  width: 328px;
+  right: 193px;
+}
+
+h3{
+  position: absolute; 
+  top: 825px;
+  height:27;
+  width: 129px;
+  right: 485px;
+  color: #B60C06;
+  font: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+#connect{
+  position: absolute; 
+  top: 857px;
+  height:90px;
+  width: 475px;
+  right: 139px;
+  color: #686160;
+  font: medium ;
+  font-size: 25px;
+}
+
+#we{
+  position: absolute; 
+  top: 960px;
+  height:54;
+  width: 487px;
+  right: 127px;
+color: #666464;
+}
+
+#appoint{
+  position: absolute; 
+  top: 1043px;
+  height:24;
+  width: 371px;
+  right: 243px;
+  color: #666464;
+}
+
+#gets{
+  position: absolute;
+  top:1096px;
+  left:756px;
+  width:254px;
+  height:54px;
+  background-color:#229DE8;
+  border: 1px solid;
+  border-color: #229DE8;
+  border-radius: 5px;
+}
+
+  #started{
+  position: absolute;
+  top:1128px;
+  left:819px;
+  width:121px;
+  height:32px;
+  color: #FFFFFF; 
+  font: normal;
+  font-size: 24px;
+ }
+
+ #carlcare{ 
+  background: #229DE8;
+  position: absolute;
+  top:1760px;
+  width: 1366px;
+  height: 505px; 
+}
+
+#care{
+  position: absolute; 
+  top: 1853px;
+  height:140px;
+  width: 136px;
+  left: 303px;
+}
+
+#per{
+  position: absolute; 
+  top: 2015px;
+  height:90;
+  width: 379px;
+  left: 190px;
+  color: #FFFFFF; 
+  text-align: center;
+  font: normal;
+  font-size:30px;
+}
+
+#short{
+  position: absolute;
+  top: 1805px;
+  left:685px;
+  height:420px;
+  width:0px;
+  color: #229DE8; 
+}
+
+#lock{
+  position: absolute; 
+  top: 1857px;
+  height:136px;
+  width: 136px;
+  right: 340px;
+
+}
+
+#cent{
+  position: absolute; 
+  top: 2015px;
+  height:90;
+  width: 309px;
+  left: 780px;
+  color: #FFFFFF; 
+  text-align: center;
+  font: normal;
+  font-size:30px;
+}
+
+#step{
+  position: absolute; 
+  top: 2331px;
+  height:45;
+  width: 499px;
+  left: 439px;
+  font:bold;
+  font-size: 30px;
+color: #666666;
+text-align: center;
+}
+
+#join{
+  position: absolute; 
+  top: 2390px;
+  height:32;
+  width: 581px;
+  left: 393px;
+  font:normal;
+  font-style: 24px;
+color: #747272;
+text-align: center;
+}
+
+#goo{
+  position: absolute; 
+  top: 2441px;
+  height:57;
+  width: 205px;
+  right: 684px;
+
+}
+
+#apps{
+  position: absolute; 
+  top: 2444px;
+  height:56;
+  width: 190px;
+  right:461px;
+
+}
+
+#close{
+  position: absolute; 
+  top: 2591px;
+  height:124px;
+  width: 1267px;
+  left: 50px;
+  border: 1px solid;
+  border-color: #229DE8;
+  border-radius: 48px 48px 0px 0px;
+  background: #229DE8
+
+}
+
+#ab{
+  position: absolute; 
+  top: 2650px;
+  height:24px;
+  width:50px;
+  left:140px;
+ }
+ 
+  #fa{
+    position: absolute; 
+    top: 2650px;
+    height:24px;
+    width: 44px;
+   left:260px;
+  } 
+    #coc{
+      position: absolute; 
+      top: 2650px;
+      height:24px;
+      width: 86px;
+      left:381px;
+  } 
+  #face{
+    position: absolute; 
+    top: 2650px;
+    height:21px;
+    width: 11px;
+    left:652px;
+} 
+#twi{
+  position: absolute; 
+  top: 2650px;
+  height:21px;
+  width: 28px;
+  left:687px;
+} 
+  #on{
+    position: absolute; 
+    top: 2640px;
+    height:19px;
+    width: 20px;
+   left:1176px;
+   color: #FFFFFF;
+  } 
+      
+
+
+
+
+
+
+
